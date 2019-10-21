@@ -2,7 +2,7 @@
 
 https://blooming-sea-72812.herokuapp.com/login
 
-![](/images/githubreadme.PNG)
+![](/client/public/assets/images/githubreadme.PNG)
 
 ## Overview
 
