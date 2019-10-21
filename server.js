@@ -39,7 +39,7 @@ const bodyParser = require("body-parser");
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 //app.use(pino);
-//just to add
+
 app.post("/sms", (req, res) => {
   const twiml = new MessagingResponse();
 
