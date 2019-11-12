@@ -1,8 +1,11 @@
 ### Application name: EZ-VALPARK
 
-https://blooming-sea-72812.herokuapp.com/login
+https://ez-valpark.herokuapp.com/
 
 ![](/client/public/assets/images/githubreadme.PNG)
+
+Try out the app here:
+Login as test user using username--> testuser1 , password--> Test1234 -->Try it here!
 
 ## Overview
 
